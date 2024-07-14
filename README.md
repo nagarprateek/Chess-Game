@@ -6,5 +6,5 @@ K - King<br/>
 Q - Queen<br/>
 R - Rook<br/>
 B - Bishop<br/>
-K - Knight<br/>
+N - Knight<br/>
 P - Pawn
