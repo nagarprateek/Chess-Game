@@ -1,7 +1,7 @@
 # Chess-Game
 A basic text-based chess game where two players can make moves by inputting coordinates
 
-Capital letters used for White Pieces and Small letters for black pieces__
+Capital letters used for White Pieces and Small letters for black pieces<br/>
 K - King
 Q - Queen
 R - Rook
